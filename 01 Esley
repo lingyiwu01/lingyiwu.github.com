@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spurpunk TD - Easley-Dunn Productions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .game-description {
+            margin: 20px 0;
+            font-size: 1.2em;
+        }
+        .download-buttons {
+            margin: 20px 0;
+        }
+        .download-buttons a {
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+        .download-buttons a:hover {
+            background-color: #0056b3;
+        }
+        .tiktok-button {
+            text-decoration: none;
+            color: white;
+            background-color: #ff0050;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+        .tiktok-button:hover {
+            background-color: #cc0040;
+        }
+/*         .linkedin-button:hover {
+            background-color: #cc0040;
+        }
+        .linkedin-button {
+            text-decoration: none;
+            color: white;
+            background-color:  #ff0050;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+
+        .facebook-button:hover {
+            background-color: #cc0040;
+        }
+        .facebook-button {
+            text-decoration: none;
+            color: white;
+            background-color:  #ff0050;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+        .twitter-button:hover {
+            background-color: #cc0040;
+        }
+        .twitter-button {
+            text-decoration: none;
+            color: white;
+            background-color:  #ff0050;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+         */
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            margin-top: 20px;
+            position: relative;
+        }
+        footer a {
+            color: white;
+            background-color: #007bff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        footer a:hover {
+            background-color: #0056b3;
+        }
+        .follow-us {
+            margin-bottom: 10px;
+        }
+    </style>
+    <!-- Google Analytics Tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BMJPN9CNM7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-BMJPN9CNM7');
+    </script>
+</head>
+<body>
+
+    <header>
+        <h1>Spurpunk TD - Easley-Dunn Productions</h1>
+    </header>
+
+    <div class="content">
+        <div class="game-description">
+            <p>Easley-Dunn Games is a full-service developer of iPhone, Facebook, and mobile games for the world. Our staff has won several awards for work in entertainment, including two Emmys, a Telly, and an Annie award for best video game animation.</p>
+            <p>Our games all have fully animated 3D characters and have pioneered new methods of social interaction and immersion for mobile games.</p>
+        </div>
+        <div>
+        <img src="Spurpunk-image.png" alt="zombie" />
+        </div>
+        <h2>Spurpunk TD</h2>
+        <p>A 3D tower defense game with a western twist. You are the Spurpunk, using magical cards and automated defense towers to keep the monsters out of your ghost town. It's a fast-paced game of strategy, power, and the luck of the draw!</p>
+        <a href="https://www.tiktok.com/@preranacheguru1/video/7402141392962702634?_r=1&_t=8osIWz1tx66" class="tiktok-button" target="_blank">Watch on TikTok</a>
+
+        <h3>Download Now!</h3>
+        <div class="download-buttons">
+            <a href="https://apps.apple.com/us/app/spurpunk-td/id1487386202" target="_blank">Download on iOS</a>
+            <a href="https://play.google.com/store/apps/details?id=com.easleydunnproductions.spurpunk" target="_blank">Download on Android</a>
+        </div>
+
+        <h3>Latest Update</h3>
+        <p>Spurpunk TD mobile game update! New button to choose from either English or Chinese as default language on the Splash screen.</p>
+        <a href="https://www.tiktok.com/@preranacheguru1/video/7402141912754392363?_r=1&_t=8osIWz1tx66" class="tiktok-button" target="_blank">Watch on TikTok</a>
+        <p>Spurpunk post on LinkedIn</p>
+        <a href="https://www.linkedin.com/posts/sowmiya-mathanagopalan_hi-linkedin-community-please-check-out-the-activity-7231404889237561347-6rmz?utm_source=share&utm_medium=member_desktop" class="tiktok-button" target="_blank">View on LinkedIn</a>
+
+        <p>Spurpunk post on Facebook</p>
+        <a href="https://www.facebook.com/100021499664938/posts/pfbid02swDWoy1AJCm6cvn1ezeT3Smy94D6K3yKNQKQRFpPWPiHHJHZpR2w5tGcyT5Epts3l/?mibextid=6yaNxA" class="tiktok-button" target="_blank">View on Facebook</a>
+        
+        <p>Spurpunk post on X</p>
+        <a href="https://x.com/francesca_53840/status/1826164880476450902" class="tiktok-button" target="_blank">View on X</a>
+         
+        <footer>
+            <div class="follow-us">
+                <a href="https://www.tiktok.com/@easleydunn" target="_blank">Follow us on TikTok</a>
+                <a href="https://www.linkedin.com/company/easley-dunn-productions/" target="_blank">Follow us on LinkedIn</a> 
+                <a href="https://www.facebook.com/easleydunngames?mibextid=LQQJ4d" target="_blank">Follow us on Facebook</a>
+                <a href="https://x.com/EasleyDunnGames" target="_blank">Follow us on X</a>
+            </div>
+            <p>&copy; 2024 Easley-Dunn Productions. All rights reserved.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
